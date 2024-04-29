@@ -14,8 +14,6 @@
 ⭐ I'm currently learning **TypeScript** and **React**  
 ❤️ And I enjoy making beautiful web sites on **HTML**,**CSS** and **JavaScript**
 
-### Languages and Tools:
-
 <div id="technical_skills">
 <h3>💼 Technical skills:</h3>
 
